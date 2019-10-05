@@ -1,0 +1,5 @@
+# 生产环境
+
+server:
+  servlet:
+    context-path: /swagger

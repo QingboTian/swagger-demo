@@ -1,0 +1,5 @@
+# 测试环境
+
+server:
+  servlet:
+    context-path: /swagger

@@ -1,0 +1,4 @@
+spring:
+  profiles:
+    # 当前哪个配置文件生效
+    active: dev
